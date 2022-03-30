@@ -1,9 +1,8 @@
 ## Olá! Eu sou a Caroline Bauer dos Santos.
 
-- 🌱 Estou atualmente cursando a Análise e Desenvolvimento de sistemas.
+- 🌱 Estou atualmente estudando QA, js, CSS, HTML.
 - 📫 bauercarol@hotmail.com
 - 😄 Pronome: Ela/Dela
-- ⚡ CSS/HTML/js
 <div align="center">
   <a href="https://github.com/carolbauer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
