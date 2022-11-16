@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Caroline Bauer dos Santos.
 
-- 🌱 Estou atualmente estudando QA, js, CSS, HTML.
-- 📫 bauercarol@hotmail.com
+- 🌱 Estou atualmente estudando Cypress, js, CSS, HTML.
+- 🏢 Analista de Testes/QA at Ubistart
+- - 📫 bauercarol@hotmail.com
 - 😄 Pronome: Ela/Dela
 <div align="center">
   <a href="https://github.com/carolbauer">
