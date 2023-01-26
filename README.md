@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Caroline Bauer dos Santos.
 
-- 🌱 Estou atualmente estudando Cypress, js, CSS, HTML.
+- 🌱 Estou atualmente estudando Cypress, js, CSS, HTML, Qualidade de software.
 - 🏢 Analista de Testes/QA at Ubistart
 - - 📫 bauercarol@hotmail.com
 - 😄 Pronome: Ela/Dela
