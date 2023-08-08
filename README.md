@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Caroline Bauer dos Santos.
 
-- 🌱 Estou atualmente estudando Cypress, js, CSS, HTML, Qualidade de software.
+- 🌱 Estou atualmente estudando Cypress, js, CSS, HTML,Java, Qualidade de software.
 - 🏢 Analista de Testes/QA at Ubistart
 - - 📫 bauercarol@hotmail.com
 - 😄 Pronome: Ela/Dela
@@ -17,6 +17,8 @@
      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="Rafa-java" height="30" width="40" src="https://icons8.com.br/icon/13679/logo-java-coffee-cup" />
+  </div>
           
    
 </div>
